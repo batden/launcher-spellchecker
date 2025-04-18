@@ -50,7 +50,7 @@ msgstr "भाषा"
 
 #: src/e_mod_main.c:586
 msgid "Launcher"
-msgstr "भाषा"
+msgstr "लांचर"
 
 #: src/e_mod_main.c:588
 msgid "Launcher Plugin"
