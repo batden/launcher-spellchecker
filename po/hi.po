@@ -18,44 +18,44 @@ msgstr ""
 
 #: src/e_mod_main.c:392 src/e_mod_main.c:450 src/e_mod_main.c:588
 msgid "Spell Checker"
-msgstr ""
+msgstr "वर्तनी जांचकर्ता"
 
 #: src/e_mod_main.c:464
 msgid "General"
-msgstr ""
+msgstr "सामान्य"
 
 #: src/e_mod_main.c:469
 msgid "Spell checker"
-msgstr ""
+msgstr "वर्तनी जांचकर्ता"
 
 #: src/e_mod_main.c:472
 msgid "Aspell"
-msgstr ""
+msgstr "एस्पेल"
 
 #: src/e_mod_main.c:475
 msgid "Hunspell"
-msgstr ""
+msgstr "हनस्पेल"
 
 #: src/e_mod_main.c:478
 msgid "Custom"
-msgstr ""
+msgstr "कस्टम"
 
 #: src/e_mod_main.c:482
 msgid "Custom Command"
-msgstr ""
+msgstr "कस्टम कमांड"
 
 #: src/e_mod_main.c:488
 msgid "Language"
-msgstr ""
+msgstr "भाषा"
 
 #: src/e_mod_main.c:586
 msgid "Launcher"
-msgstr ""
+msgstr "भाषा"
 
 #: src/e_mod_main.c:588
 msgid "Launcher Plugin"
-msgstr ""
+msgstr "लॉन्चर प्लगइन"
 
 #: src/e_mod_main.c:607
 msgid "Everything Aspell"
-msgstr ""
+msgstr "सब कुछ एस्पेल"
